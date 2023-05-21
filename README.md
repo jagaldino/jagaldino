@@ -2,7 +2,7 @@
 
 <hr>
 <div align="center">
-• 📚 Atualmente estudante do curso técnico de TI pelo no IMD - Instituto Metrópole Digital - UFRN<br>
+• 📚 Atualmente estudante do curso técnico de TI pelo IMD - Instituto Metrópole Digital - UFRN<br>
 • 📚 Formação em Programação Básica (JUL-DEZ 2022)<br>
 • 🚧 Formação Básica em Programação para Internet (EM ANDAMENTO)<br>
 • 📩 Você pode me achar em: <br> <br>
