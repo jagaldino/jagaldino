@@ -53,7 +53,7 @@
 
 ###
 
-<img align="center" height="180" src="https://gifrific.com/wp-content/uploads/2014/02/Jim-Halpert-Looks-at-Computer-Shakes-Head.gif"  />
+<img align="center" height="500" src="https://gifrific.com/wp-content/uploads/2014/02/Jim-Halpert-Looks-at-Computer-Shakes-Head.gif"  />
 
 ###
 
