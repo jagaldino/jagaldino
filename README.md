@@ -50,9 +50,4 @@
   </a>
 </div>
 
-###
-
-<img align="center" height="500" src="https://gifrific.com/wp-content/uploads/2014/02/Jim-Halpert-Looks-at-Computer-Shakes-Head.gif"  />
-
-###
 
