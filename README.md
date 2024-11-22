@@ -42,7 +42,8 @@
 
 <br/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jagaldino&theme=dark&show_icons=true" />
+![jagaldino's Stats](https://github-readme-stats.vercel.app/api?username=jagaldino&theme=blueberry&show_icons=true&hide_border=true&count_private=true)
+![jagaldino's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jagaldino&theme=blueberry&hide_border=true)
 
 ## Onde me encontrar
 
