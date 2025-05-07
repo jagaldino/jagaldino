@@ -4,7 +4,7 @@
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções.
 - 🎓 Estudando Ciência e Tecnologia na Universidade Federal do Rio Grande do Norte.
-- 🌱 Aprendendo mais sobre Web Scraping em **Python** e **PHP**.
+- 🌱 Aprendendo mais sobre IA em **Python**.
 
 ## Minhas Skills
 
