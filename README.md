@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=jagaldino&color=006bed)
 
-## Olá! Sou João Arthur Galdino 👋
+## Olá! Sou João Galdino 👋
 
 Desenvolvedor Web com foco em arquiteturas modernas, soluções Full-stack e integrações com Inteligência Artificial. Gosto de resolver problemas reais, seja na educação ou no esporte, e estou sempre envolvido em novos desafios, hackathons e projetos de pesquisa.
 
