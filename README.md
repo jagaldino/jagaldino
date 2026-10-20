@@ -84,10 +84,12 @@ Alguns projetos e áreas que representam meus interesses:
   <img width="70%" src="https://streak-stats.demolab.com?user=jagaldino&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições"/>
 </div>
 
-## 📈 Atividade de contribuições
+## 📈 Atividade no GitHub
 
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=jagaldino&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de atividade no GitHub"/>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jagaldino&show_icons=true&theme=tokyonight&hide_border=true)
+
 </div>
 
 ## 📬 Vamos conversar?
